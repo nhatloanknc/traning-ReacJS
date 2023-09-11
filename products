@@ -1,0 +1,507 @@
+{
+    "total": 30,
+    "pageIndex": 0,
+    "pageSize": 20,
+    "data": [
+        {
+            "_id": "64efefc1332489ab2a35d0bc",
+            "name": "Điện thoại Samsung 19",
+            "price": "7000000",
+            "description": "Thông tin sản phẩm\nSamsung một siêu phẩm trong giới smartphone Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng Samsung\nThiết kế cao cấp bền bỉ\niPhone năm nay sẽ được thừa hưởng nét đặc trưng từ người anh iPhone 13 Pro Max, vẫn sẽ là khung thép không gỉ và mặt lưng kính cường lực kết hợp với tạo hình vuông vức hiện đại thông qua cách tạo hình phẳng ở các cạnh và phần mặt lưng.",
+            "image": "https://cdn.tgdd.vn/Products/Images/42/267211/Samsung-Galaxy-S21-FE-vang-1-2-600x600.jpg",
+            "discount": "2%",
+            "memory": [
+                "64"
+            ],
+            "color": [
+                "yellow"
+            ],
+            "width": "6.7\"",
+            "screenTechnology": "OLED",
+            "resolutionScreen": "2796 x 1290 Pixels",
+            "widescreen": "6.7\" - Tần số quét 120 Hz",
+            "maximumBrightness": "2000 nits",
+            "touchScreen": "Kính cường lực Ceramic Shield",
+            "resolutionRearCamera": "Chính 48 MP & Phụ 12 MP, 12 MP",
+            "film": "<ul>\n      <li>HD 720p@30fps</li>\n      <li>FullHD 1080p@60fps</li>\n      <li>FullHD 1080p@30fps</li>\n      <li>4K 2160p@24fps</li>\n      <li>4K 2160p@30fps</li>\n      <li>4K 2160p@60fps</li>\n      </ul>",
+            "flash": 0,
+            "resolutionFrontCamera": "12 MP",
+            "categoryId": "64efef649d7c130ecd1ee7e9"
+        },
+        {
+            "_id": "64efefc1332489ab2a35d0b4",
+            "name": "Điện thoại Iphone 11",
+            "price": "9000000",
+            "description": "Thông tin sản phẩm\nIphone một siêu phẩm trong giới smartphone Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng Iphone\nThiết kế cao cấp bền bỉ\niPhone năm nay sẽ được thừa hưởng nét đặc trưng từ người anh iPhone 13 Pro Max, vẫn sẽ là khung thép không gỉ và mặt lưng kính cường lực kết hợp với tạo hình vuông vức hiện đại thông qua cách tạo hình phẳng ở các cạnh và phần mặt lưng.",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_75/https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-tim-thumb-200x200.jpg",
+            "discount": "15%",
+            "memory": [
+                "128"
+            ],
+            "color": [
+                "yellow"
+            ],
+            "width": "6.7\"",
+            "screenTechnology": "OLED",
+            "resolutionScreen": "2796 x 1290 Pixels",
+            "widescreen": "6.7\" - Tần số quét 120 Hz",
+            "maximumBrightness": "2000 nits",
+            "touchScreen": "Kính cường lực Ceramic Shield",
+            "resolutionRearCamera": "Chính 48 MP & Phụ 12 MP, 12 MP",
+            "film": "<ul>\n      <li>HD 720p@30fps</li>\n      <li>FullHD 1080p@60fps</li>\n      <li>FullHD 1080p@30fps</li>\n      <li>4K 2160p@24fps</li>\n      <li>4K 2160p@30fps</li>\n      <li>4K 2160p@60fps</li>\n      </ul>",
+            "flash": 0,
+            "resolutionFrontCamera": "12 MP",
+            "categoryId": "64efef649d7c130ecd1ee7e8"
+        },
+        {
+            "_id": "64efefc1332489ab2a35d0ae",
+            "name": "Điện thoại Nokia 5",
+            "price": "8000000",
+            "description": "Thông tin sản phẩm\nNokia một siêu phẩm trong giới smartphone Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng Nokia\nThiết kế cao cấp bền bỉ\niPhone năm nay sẽ được thừa hưởng nét đặc trưng từ người anh iPhone 13 Pro Max, vẫn sẽ là khung thép không gỉ và mặt lưng kính cường lực kết hợp với tạo hình vuông vức hiện đại thông qua cách tạo hình phẳng ở các cạnh và phần mặt lưng.",
+            "image": "https://cdn.tgdd.vn/Products/Images/42/303937/nokia-g22-xanh-thumb-1-2-600x600.jpg",
+            "discount": "5%",
+            "memory": [
+                "128"
+            ],
+            "color": [
+                "white"
+            ],
+            "width": "6.7\"",
+            "screenTechnology": "OLED",
+            "resolutionScreen": "2796 x 1290 Pixels",
+            "widescreen": "6.7\" - Tần số quét 120 Hz",
+            "maximumBrightness": "2000 nits",
+            "touchScreen": "Kính cường lực Ceramic Shield",
+            "resolutionRearCamera": "Chính 48 MP & Phụ 12 MP, 12 MP",
+            "film": "<ul>\n      <li>HD 720p@30fps</li>\n      <li>FullHD 1080p@60fps</li>\n      <li>FullHD 1080p@30fps</li>\n      <li>4K 2160p@24fps</li>\n      <li>4K 2160p@30fps</li>\n      <li>4K 2160p@60fps</li>\n      </ul>",
+            "flash": 1,
+            "resolutionFrontCamera": "12 MP",
+            "categoryId": "64efef649d7c130ecd1ee7ea"
+        },
+        {
+            "_id": "64efefc1332489ab2a35d0ba",
+            "name": "Điện thoại Nokia 17",
+            "price": "9000000",
+            "description": "Thông tin sản phẩm\nNokia một siêu phẩm trong giới smartphone Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng Nokia\nThiết kế cao cấp bền bỉ\niPhone năm nay sẽ được thừa hưởng nét đặc trưng từ người anh iPhone 13 Pro Max, vẫn sẽ là khung thép không gỉ và mặt lưng kính cường lực kết hợp với tạo hình vuông vức hiện đại thông qua cách tạo hình phẳng ở các cạnh và phần mặt lưng.",
+            "image": "https://cdn.tgdd.vn/Products/Images/42/303937/nokia-g22-xanh-thumb-1-2-600x600.jpg",
+            "discount": "2%",
+            "memory": [
+                "256"
+            ],
+            "color": [
+                "red"
+            ],
+            "width": "6.7\"",
+            "screenTechnology": "OLED",
+            "resolutionScreen": "2796 x 1290 Pixels",
+            "widescreen": "6.7\" - Tần số quét 120 Hz",
+            "maximumBrightness": "2000 nits",
+            "touchScreen": "Kính cường lực Ceramic Shield",
+            "resolutionRearCamera": "Chính 48 MP & Phụ 12 MP, 12 MP",
+            "film": "<ul>\n      <li>HD 720p@30fps</li>\n      <li>FullHD 1080p@60fps</li>\n      <li>FullHD 1080p@30fps</li>\n      <li>4K 2160p@24fps</li>\n      <li>4K 2160p@30fps</li>\n      <li>4K 2160p@60fps</li>\n      </ul>",
+            "flash": 0,
+            "resolutionFrontCamera": "12 MP",
+            "categoryId": "64efef649d7c130ecd1ee7ea"
+        },
+        {
+            "_id": "64efefc1332489ab2a35d0b6",
+            "name": "Điện thoại Iphone 13",
+            "price": "8000000",
+            "description": "Thông tin sản phẩm\nIphone một siêu phẩm trong giới smartphone Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng Iphone\nThiết kế cao cấp bền bỉ\niPhone năm nay sẽ được thừa hưởng nét đặc trưng từ người anh iPhone 13 Pro Max, vẫn sẽ là khung thép không gỉ và mặt lưng kính cường lực kết hợp với tạo hình vuông vức hiện đại thông qua cách tạo hình phẳng ở các cạnh và phần mặt lưng.",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_75/https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-tim-thumb-200x200.jpg",
+            "discount": "5%",
+            "memory": [
+                "128"
+            ],
+            "color": [
+                "red"
+            ],
+            "width": "6.7\"",
+            "screenTechnology": "OLED",
+            "resolutionScreen": "2796 x 1290 Pixels",
+            "widescreen": "6.7\" - Tần số quét 120 Hz",
+            "maximumBrightness": "2000 nits",
+            "touchScreen": "Kính cường lực Ceramic Shield",
+            "resolutionRearCamera": "Chính 48 MP & Phụ 12 MP, 12 MP",
+            "film": "<ul>\n      <li>HD 720p@30fps</li>\n      <li>FullHD 1080p@60fps</li>\n      <li>FullHD 1080p@30fps</li>\n      <li>4K 2160p@24fps</li>\n      <li>4K 2160p@30fps</li>\n      <li>4K 2160p@60fps</li>\n      </ul>",
+            "flash": 1,
+            "resolutionFrontCamera": "12 MP",
+            "categoryId": "64efef649d7c130ecd1ee7e8"
+        },
+        {
+            "_id": "64efefc1332489ab2a35d0b2",
+            "name": "Điện thoại Oppo 9",
+            "price": "8000000",
+            "description": "Thông tin sản phẩm\nOppo một siêu phẩm trong giới smartphone Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng Oppo\nThiết kế cao cấp bền bỉ\niPhone năm nay sẽ được thừa hưởng nét đặc trưng từ người anh iPhone 13 Pro Max, vẫn sẽ là khung thép không gỉ và mặt lưng kính cường lực kết hợp với tạo hình vuông vức hiện đại thông qua cách tạo hình phẳng ở các cạnh và phần mặt lưng.",
+            "image": "https://cdn.tgdd.vn/Products/Images/42/309722/oppo-reno10-blue-thumbnew-600x600.jpg",
+            "discount": "8%",
+            "memory": [
+                "64"
+            ],
+            "color": [
+                "yellow"
+            ],
+            "width": "6.7\"",
+            "screenTechnology": "OLED",
+            "resolutionScreen": "2796 x 1290 Pixels",
+            "widescreen": "6.7\" - Tần số quét 120 Hz",
+            "maximumBrightness": "2000 nits",
+            "touchScreen": "Kính cường lực Ceramic Shield",
+            "resolutionRearCamera": "Chính 48 MP & Phụ 12 MP, 12 MP",
+            "film": "<ul>\n      <li>HD 720p@30fps</li>\n      <li>FullHD 1080p@60fps</li>\n      <li>FullHD 1080p@30fps</li>\n      <li>4K 2160p@24fps</li>\n      <li>4K 2160p@30fps</li>\n      <li>4K 2160p@60fps</li>\n      </ul>",
+            "flash": 0,
+            "resolutionFrontCamera": "12 MP",
+            "categoryId": "64efef649d7c130ecd1ee7eb"
+        },
+        {
+            "_id": "64efefc1332489ab2a35d0bd",
+            "name": "Điện thoại Oppo 20",
+            "price": "25000000",
+            "description": "Thông tin sản phẩm\nOppo một siêu phẩm trong giới smartphone Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng Oppo\nThiết kế cao cấp bền bỉ\niPhone năm nay sẽ được thừa hưởng nét đặc trưng từ người anh iPhone 13 Pro Max, vẫn sẽ là khung thép không gỉ và mặt lưng kính cường lực kết hợp với tạo hình vuông vức hiện đại thông qua cách tạo hình phẳng ở các cạnh và phần mặt lưng.",
+            "image": "https://cdn.tgdd.vn/Products/Images/42/309722/oppo-reno10-blue-thumbnew-600x600.jpg",
+            "discount": "8%",
+            "memory": [
+                "256"
+            ],
+            "color": [
+                "green"
+            ],
+            "width": "6.7\"",
+            "screenTechnology": "OLED",
+            "resolutionScreen": "2796 x 1290 Pixels",
+            "widescreen": "6.7\" - Tần số quét 120 Hz",
+            "maximumBrightness": "2000 nits",
+            "touchScreen": "Kính cường lực Ceramic Shield",
+            "resolutionRearCamera": "Chính 48 MP & Phụ 12 MP, 12 MP",
+            "film": "<ul>\n      <li>HD 720p@30fps</li>\n      <li>FullHD 1080p@60fps</li>\n      <li>FullHD 1080p@30fps</li>\n      <li>4K 2160p@24fps</li>\n      <li>4K 2160p@30fps</li>\n      <li>4K 2160p@60fps</li>\n      </ul>",
+            "flash": 1,
+            "resolutionFrontCamera": "12 MP",
+            "categoryId": "64efef649d7c130ecd1ee7eb"
+        },
+        {
+            "_id": "64efefc1332489ab2a35d0ab",
+            "name": "Điện thoại Nokia 2",
+            "price": "10000000",
+            "description": "Thông tin sản phẩm\nNokia một siêu phẩm trong giới smartphone Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng Nokia\nThiết kế cao cấp bền bỉ\niPhone năm nay sẽ được thừa hưởng nét đặc trưng từ người anh iPhone 13 Pro Max, vẫn sẽ là khung thép không gỉ và mặt lưng kính cường lực kết hợp với tạo hình vuông vức hiện đại thông qua cách tạo hình phẳng ở các cạnh và phần mặt lưng.",
+            "image": "https://cdn.tgdd.vn/Products/Images/42/303937/nokia-g22-xanh-thumb-1-2-600x600.jpg",
+            "discount": "8%",
+            "memory": [
+                "128"
+            ],
+            "color": [
+                "black"
+            ],
+            "width": "6.7\"",
+            "screenTechnology": "OLED",
+            "resolutionScreen": "2796 x 1290 Pixels",
+            "widescreen": "6.7\" - Tần số quét 120 Hz",
+            "maximumBrightness": "2000 nits",
+            "touchScreen": "Kính cường lực Ceramic Shield",
+            "resolutionRearCamera": "Chính 48 MP & Phụ 12 MP, 12 MP",
+            "film": "<ul>\n      <li>HD 720p@30fps</li>\n      <li>FullHD 1080p@60fps</li>\n      <li>FullHD 1080p@30fps</li>\n      <li>4K 2160p@24fps</li>\n      <li>4K 2160p@30fps</li>\n      <li>4K 2160p@60fps</li>\n      </ul>",
+            "flash": 0,
+            "resolutionFrontCamera": "12 MP",
+            "categoryId": "64efef649d7c130ecd1ee7ea"
+        },
+        {
+            "_id": "64efefc1332489ab2a35d0b5",
+            "name": "Điện thoại Iphone 12",
+            "price": "25000000",
+            "description": "Thông tin sản phẩm\nIphone một siêu phẩm trong giới smartphone Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng Iphone\nThiết kế cao cấp bền bỉ\niPhone năm nay sẽ được thừa hưởng nét đặc trưng từ người anh iPhone 13 Pro Max, vẫn sẽ là khung thép không gỉ và mặt lưng kính cường lực kết hợp với tạo hình vuông vức hiện đại thông qua cách tạo hình phẳng ở các cạnh và phần mặt lưng.",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_75/https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-tim-thumb-200x200.jpg",
+            "discount": "8%",
+            "memory": [
+                "64"
+            ],
+            "color": [
+                "white"
+            ],
+            "width": "6.7\"",
+            "screenTechnology": "OLED",
+            "resolutionScreen": "2796 x 1290 Pixels",
+            "widescreen": "6.7\" - Tần số quét 120 Hz",
+            "maximumBrightness": "2000 nits",
+            "touchScreen": "Kính cường lực Ceramic Shield",
+            "resolutionRearCamera": "Chính 48 MP & Phụ 12 MP, 12 MP",
+            "film": "<ul>\n      <li>HD 720p@30fps</li>\n      <li>FullHD 1080p@60fps</li>\n      <li>FullHD 1080p@30fps</li>\n      <li>4K 2160p@24fps</li>\n      <li>4K 2160p@30fps</li>\n      <li>4K 2160p@60fps</li>\n      </ul>",
+            "flash": 1,
+            "resolutionFrontCamera": "12 MP",
+            "categoryId": "64efef649d7c130ecd1ee7e8"
+        },
+        {
+            "_id": "64efefc1332489ab2a35d0af",
+            "name": "Điện thoại Iphone 6",
+            "price": "8000000",
+            "description": "Thông tin sản phẩm\nIphone một siêu phẩm trong giới smartphone Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng Iphone\nThiết kế cao cấp bền bỉ\niPhone năm nay sẽ được thừa hưởng nét đặc trưng từ người anh iPhone 13 Pro Max, vẫn sẽ là khung thép không gỉ và mặt lưng kính cường lực kết hợp với tạo hình vuông vức hiện đại thông qua cách tạo hình phẳng ở các cạnh và phần mặt lưng.",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_75/https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-tim-thumb-200x200.jpg",
+            "discount": "10%",
+            "memory": [
+                "256"
+            ],
+            "color": [
+                "blue"
+            ],
+            "width": "6.7\"",
+            "screenTechnology": "OLED",
+            "resolutionScreen": "2796 x 1290 Pixels",
+            "widescreen": "6.7\" - Tần số quét 120 Hz",
+            "maximumBrightness": "2000 nits",
+            "touchScreen": "Kính cường lực Ceramic Shield",
+            "resolutionRearCamera": "Chính 48 MP & Phụ 12 MP, 12 MP",
+            "film": "<ul>\n      <li>HD 720p@30fps</li>\n      <li>FullHD 1080p@60fps</li>\n      <li>FullHD 1080p@30fps</li>\n      <li>4K 2160p@24fps</li>\n      <li>4K 2160p@30fps</li>\n      <li>4K 2160p@60fps</li>\n      </ul>",
+            "flash": 0,
+            "resolutionFrontCamera": "12 MP",
+            "categoryId": "64efef649d7c130ecd1ee7e8"
+        },
+        {
+            "_id": "64efefc1332489ab2a35d0b9",
+            "name": "Điện thoại Iphone 16",
+            "price": "25000000",
+            "description": "Thông tin sản phẩm\nIphone một siêu phẩm trong giới smartphone Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng Iphone\nThiết kế cao cấp bền bỉ\niPhone năm nay sẽ được thừa hưởng nét đặc trưng từ người anh iPhone 13 Pro Max, vẫn sẽ là khung thép không gỉ và mặt lưng kính cường lực kết hợp với tạo hình vuông vức hiện đại thông qua cách tạo hình phẳng ở các cạnh và phần mặt lưng.",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_75/https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-tim-thumb-200x200.jpg",
+            "discount": "10%",
+            "memory": [
+                "128"
+            ],
+            "color": [
+                "black"
+            ],
+            "width": "6.7\"",
+            "screenTechnology": "OLED",
+            "resolutionScreen": "2796 x 1290 Pixels",
+            "widescreen": "6.7\" - Tần số quét 120 Hz",
+            "maximumBrightness": "2000 nits",
+            "touchScreen": "Kính cường lực Ceramic Shield",
+            "resolutionRearCamera": "Chính 48 MP & Phụ 12 MP, 12 MP",
+            "film": "<ul>\n      <li>HD 720p@30fps</li>\n      <li>FullHD 1080p@60fps</li>\n      <li>FullHD 1080p@30fps</li>\n      <li>4K 2160p@24fps</li>\n      <li>4K 2160p@30fps</li>\n      <li>4K 2160p@60fps</li>\n      </ul>",
+            "flash": 1,
+            "resolutionFrontCamera": "12 MP",
+            "categoryId": "64efef649d7c130ecd1ee7e8"
+        },
+        {
+            "_id": "64efefc1332489ab2a35d0b7",
+            "name": "Điện thoại Oppo 14",
+            "price": "4000000",
+            "description": "Thông tin sản phẩm\nOppo một siêu phẩm trong giới smartphone Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng Oppo\nThiết kế cao cấp bền bỉ\niPhone năm nay sẽ được thừa hưởng nét đặc trưng từ người anh iPhone 13 Pro Max, vẫn sẽ là khung thép không gỉ và mặt lưng kính cường lực kết hợp với tạo hình vuông vức hiện đại thông qua cách tạo hình phẳng ở các cạnh và phần mặt lưng.",
+            "image": "https://cdn.tgdd.vn/Products/Images/42/309722/oppo-reno10-blue-thumbnew-600x600.jpg",
+            "discount": "15%",
+            "memory": [
+                "128"
+            ],
+            "color": [
+                "white"
+            ],
+            "width": "6.7\"",
+            "screenTechnology": "OLED",
+            "resolutionScreen": "2796 x 1290 Pixels",
+            "widescreen": "6.7\" - Tần số quét 120 Hz",
+            "maximumBrightness": "2000 nits",
+            "touchScreen": "Kính cường lực Ceramic Shield",
+            "resolutionRearCamera": "Chính 48 MP & Phụ 12 MP, 12 MP",
+            "film": "<ul>\n      <li>HD 720p@30fps</li>\n      <li>FullHD 1080p@60fps</li>\n      <li>FullHD 1080p@30fps</li>\n      <li>4K 2160p@24fps</li>\n      <li>4K 2160p@30fps</li>\n      <li>4K 2160p@60fps</li>\n      </ul>",
+            "flash": 1,
+            "resolutionFrontCamera": "12 MP",
+            "categoryId": "64efef649d7c130ecd1ee7eb"
+        },
+        {
+            "_id": "64efefc1332489ab2a35d0b1",
+            "name": "Điện thoại Oppo 8",
+            "price": "25000000",
+            "description": "Thông tin sản phẩm\nOppo một siêu phẩm trong giới smartphone Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng Oppo\nThiết kế cao cấp bền bỉ\niPhone năm nay sẽ được thừa hưởng nét đặc trưng từ người anh iPhone 13 Pro Max, vẫn sẽ là khung thép không gỉ và mặt lưng kính cường lực kết hợp với tạo hình vuông vức hiện đại thông qua cách tạo hình phẳng ở các cạnh và phần mặt lưng.",
+            "image": "https://cdn.tgdd.vn/Products/Images/42/309722/oppo-reno10-blue-thumbnew-600x600.jpg",
+            "discount": "8%",
+            "memory": [
+                "256"
+            ],
+            "color": [
+                "yellow"
+            ],
+            "width": "6.7\"",
+            "screenTechnology": "OLED",
+            "resolutionScreen": "2796 x 1290 Pixels",
+            "widescreen": "6.7\" - Tần số quét 120 Hz",
+            "maximumBrightness": "2000 nits",
+            "touchScreen": "Kính cường lực Ceramic Shield",
+            "resolutionRearCamera": "Chính 48 MP & Phụ 12 MP, 12 MP",
+            "film": "<ul>\n      <li>HD 720p@30fps</li>\n      <li>FullHD 1080p@60fps</li>\n      <li>FullHD 1080p@30fps</li>\n      <li>4K 2160p@24fps</li>\n      <li>4K 2160p@30fps</li>\n      <li>4K 2160p@60fps</li>\n      </ul>",
+            "flash": 0,
+            "resolutionFrontCamera": "12 MP",
+            "categoryId": "64efef649d7c130ecd1ee7eb"
+        },
+        {
+            "_id": "64efefc1332489ab2a35d0bb",
+            "name": "Điện thoại Samsung 18",
+            "price": "15000000",
+            "description": "Thông tin sản phẩm\nSamsung một siêu phẩm trong giới smartphone Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng Samsung\nThiết kế cao cấp bền bỉ\niPhone năm nay sẽ được thừa hưởng nét đặc trưng từ người anh iPhone 13 Pro Max, vẫn sẽ là khung thép không gỉ và mặt lưng kính cường lực kết hợp với tạo hình vuông vức hiện đại thông qua cách tạo hình phẳng ở các cạnh và phần mặt lưng.",
+            "image": "https://cdn.tgdd.vn/Products/Images/42/267211/Samsung-Galaxy-S21-FE-vang-1-2-600x600.jpg",
+            "discount": "2%",
+            "memory": [
+                "64"
+            ],
+            "color": [
+                "green"
+            ],
+            "width": "6.7\"",
+            "screenTechnology": "OLED",
+            "resolutionScreen": "2796 x 1290 Pixels",
+            "widescreen": "6.7\" - Tần số quét 120 Hz",
+            "maximumBrightness": "2000 nits",
+            "touchScreen": "Kính cường lực Ceramic Shield",
+            "resolutionRearCamera": "Chính 48 MP & Phụ 12 MP, 12 MP",
+            "film": "<ul>\n      <li>HD 720p@30fps</li>\n      <li>FullHD 1080p@60fps</li>\n      <li>FullHD 1080p@30fps</li>\n      <li>4K 2160p@24fps</li>\n      <li>4K 2160p@30fps</li>\n      <li>4K 2160p@60fps</li>\n      </ul>",
+            "flash": 0,
+            "resolutionFrontCamera": "12 MP",
+            "categoryId": "64efef649d7c130ecd1ee7e9"
+        },
+        {
+            "_id": "64efefc1332489ab2a35d0ad",
+            "name": "Điện thoại Iphone 4",
+            "price": "10000000",
+            "description": "Thông tin sản phẩm\nIphone một siêu phẩm trong giới smartphone Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng Iphone\nThiết kế cao cấp bền bỉ\niPhone năm nay sẽ được thừa hưởng nét đặc trưng từ người anh iPhone 13 Pro Max, vẫn sẽ là khung thép không gỉ và mặt lưng kính cường lực kết hợp với tạo hình vuông vức hiện đại thông qua cách tạo hình phẳng ở các cạnh và phần mặt lưng.",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_75/https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-tim-thumb-200x200.jpg",
+            "discount": "2%",
+            "memory": [
+                "256"
+            ],
+            "color": [
+                "white"
+            ],
+            "width": "6.7\"",
+            "screenTechnology": "OLED",
+            "resolutionScreen": "2796 x 1290 Pixels",
+            "widescreen": "6.7\" - Tần số quét 120 Hz",
+            "maximumBrightness": "2000 nits",
+            "touchScreen": "Kính cường lực Ceramic Shield",
+            "resolutionRearCamera": "Chính 48 MP & Phụ 12 MP, 12 MP",
+            "film": "<ul>\n      <li>HD 720p@30fps</li>\n      <li>FullHD 1080p@60fps</li>\n      <li>FullHD 1080p@30fps</li>\n      <li>4K 2160p@24fps</li>\n      <li>4K 2160p@30fps</li>\n      <li>4K 2160p@60fps</li>\n      </ul>",
+            "flash": 0,
+            "resolutionFrontCamera": "12 MP",
+            "categoryId": "64efef649d7c130ecd1ee7e8"
+        },
+        {
+            "_id": "64efefc1332489ab2a35d0b3",
+            "name": "Điện thoại Oppo 10",
+            "price": "7000000",
+            "description": "Thông tin sản phẩm\nOppo một siêu phẩm trong giới smartphone Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng Oppo\nThiết kế cao cấp bền bỉ\niPhone năm nay sẽ được thừa hưởng nét đặc trưng từ người anh iPhone 13 Pro Max, vẫn sẽ là khung thép không gỉ và mặt lưng kính cường lực kết hợp với tạo hình vuông vức hiện đại thông qua cách tạo hình phẳng ở các cạnh và phần mặt lưng.",
+            "image": "https://cdn.tgdd.vn/Products/Images/42/309722/oppo-reno10-blue-thumbnew-600x600.jpg",
+            "discount": "5%",
+            "memory": [
+                "256"
+            ],
+            "color": [
+                "blue"
+            ],
+            "width": "6.7\"",
+            "screenTechnology": "OLED",
+            "resolutionScreen": "2796 x 1290 Pixels",
+            "widescreen": "6.7\" - Tần số quét 120 Hz",
+            "maximumBrightness": "2000 nits",
+            "touchScreen": "Kính cường lực Ceramic Shield",
+            "resolutionRearCamera": "Chính 48 MP & Phụ 12 MP, 12 MP",
+            "film": "<ul>\n      <li>HD 720p@30fps</li>\n      <li>FullHD 1080p@60fps</li>\n      <li>FullHD 1080p@30fps</li>\n      <li>4K 2160p@24fps</li>\n      <li>4K 2160p@30fps</li>\n      <li>4K 2160p@60fps</li>\n      </ul>",
+            "flash": 0,
+            "resolutionFrontCamera": "12 MP",
+            "categoryId": "64efef649d7c130ecd1ee7eb"
+        },
+        {
+            "_id": "64efefc1332489ab2a35d0aa",
+            "name": "Điện thoại Samsung 1",
+            "price": "8000000",
+            "description": "Thông tin sản phẩm\nSamsung một siêu phẩm trong giới smartphone Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng Samsung\nThiết kế cao cấp bền bỉ\niPhone năm nay sẽ được thừa hưởng nét đặc trưng từ người anh iPhone 13 Pro Max, vẫn sẽ là khung thép không gỉ và mặt lưng kính cường lực kết hợp với tạo hình vuông vức hiện đại thông qua cách tạo hình phẳng ở các cạnh và phần mặt lưng.",
+            "image": "https://cdn.tgdd.vn/Products/Images/42/267211/Samsung-Galaxy-S21-FE-vang-1-2-600x600.jpg",
+            "discount": "8%",
+            "memory": [
+                "64"
+            ],
+            "color": [
+                "black"
+            ],
+            "width": "6.7\"",
+            "screenTechnology": "OLED",
+            "resolutionScreen": "2796 x 1290 Pixels",
+            "widescreen": "6.7\" - Tần số quét 120 Hz",
+            "maximumBrightness": "2000 nits",
+            "touchScreen": "Kính cường lực Ceramic Shield",
+            "resolutionRearCamera": "Chính 48 MP & Phụ 12 MP, 12 MP",
+            "film": "<ul>\n      <li>HD 720p@30fps</li>\n      <li>FullHD 1080p@60fps</li>\n      <li>FullHD 1080p@30fps</li>\n      <li>4K 2160p@24fps</li>\n      <li>4K 2160p@30fps</li>\n      <li>4K 2160p@60fps</li>\n      </ul>",
+            "flash": 0,
+            "resolutionFrontCamera": "12 MP",
+            "categoryId": "64efef649d7c130ecd1ee7e9"
+        },
+        {
+            "_id": "64efefc1332489ab2a35d0ac",
+            "name": "Điện thoại Samsung 3",
+            "price": "8000000",
+            "description": "Thông tin sản phẩm\nSamsung một siêu phẩm trong giới smartphone Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng Samsung\nThiết kế cao cấp bền bỉ\niPhone năm nay sẽ được thừa hưởng nét đặc trưng từ người anh iPhone 13 Pro Max, vẫn sẽ là khung thép không gỉ và mặt lưng kính cường lực kết hợp với tạo hình vuông vức hiện đại thông qua cách tạo hình phẳng ở các cạnh và phần mặt lưng.",
+            "image": "https://cdn.tgdd.vn/Products/Images/42/267211/Samsung-Galaxy-S21-FE-vang-1-2-600x600.jpg",
+            "discount": "5%",
+            "memory": [
+                "128"
+            ],
+            "color": [
+                "white"
+            ],
+            "width": "6.7\"",
+            "screenTechnology": "OLED",
+            "resolutionScreen": "2796 x 1290 Pixels",
+            "widescreen": "6.7\" - Tần số quét 120 Hz",
+            "maximumBrightness": "2000 nits",
+            "touchScreen": "Kính cường lực Ceramic Shield",
+            "resolutionRearCamera": "Chính 48 MP & Phụ 12 MP, 12 MP",
+            "film": "<ul>\n      <li>HD 720p@30fps</li>\n      <li>FullHD 1080p@60fps</li>\n      <li>FullHD 1080p@30fps</li>\n      <li>4K 2160p@24fps</li>\n      <li>4K 2160p@30fps</li>\n      <li>4K 2160p@60fps</li>\n      </ul>",
+            "flash": 0,
+            "resolutionFrontCamera": "12 MP",
+            "categoryId": "64efef649d7c130ecd1ee7e9"
+        },
+        {
+            "_id": "64efefc1332489ab2a35d0b0",
+            "name": "Điện thoại Nokia 7",
+            "price": "25000000",
+            "description": "Thông tin sản phẩm\nNokia một siêu phẩm trong giới smartphone Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng Nokia\nThiết kế cao cấp bền bỉ\niPhone năm nay sẽ được thừa hưởng nét đặc trưng từ người anh iPhone 13 Pro Max, vẫn sẽ là khung thép không gỉ và mặt lưng kính cường lực kết hợp với tạo hình vuông vức hiện đại thông qua cách tạo hình phẳng ở các cạnh và phần mặt lưng.",
+            "image": "https://cdn.tgdd.vn/Products/Images/42/303937/nokia-g22-xanh-thumb-1-2-600x600.jpg",
+            "discount": "5%",
+            "memory": [
+                "64"
+            ],
+            "color": [
+                "blue"
+            ],
+            "width": "6.7\"",
+            "screenTechnology": "OLED",
+            "resolutionScreen": "2796 x 1290 Pixels",
+            "widescreen": "6.7\" - Tần số quét 120 Hz",
+            "maximumBrightness": "2000 nits",
+            "touchScreen": "Kính cường lực Ceramic Shield",
+            "resolutionRearCamera": "Chính 48 MP & Phụ 12 MP, 12 MP",
+            "film": "<ul>\n      <li>HD 720p@30fps</li>\n      <li>FullHD 1080p@60fps</li>\n      <li>FullHD 1080p@30fps</li>\n      <li>4K 2160p@24fps</li>\n      <li>4K 2160p@30fps</li>\n      <li>4K 2160p@60fps</li>\n      </ul>",
+            "flash": 0,
+            "resolutionFrontCamera": "12 MP",
+            "categoryId": "64efef649d7c130ecd1ee7ea"
+        },
+        {
+            "_id": "64efefc1332489ab2a35d0b8",
+            "name": "Điện thoại Samsung 15",
+            "price": "7000000",
+            "description": "Thông tin sản phẩm\nSamsung một siêu phẩm trong giới smartphone Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng Samsung\nThiết kế cao cấp bền bỉ\niPhone năm nay sẽ được thừa hưởng nét đặc trưng từ người anh iPhone 13 Pro Max, vẫn sẽ là khung thép không gỉ và mặt lưng kính cường lực kết hợp với tạo hình vuông vức hiện đại thông qua cách tạo hình phẳng ở các cạnh và phần mặt lưng.",
+            "image": "https://cdn.tgdd.vn/Products/Images/42/267211/Samsung-Galaxy-S21-FE-vang-1-2-600x600.jpg",
+            "discount": "8%",
+            "memory": [
+                "128"
+            ],
+            "color": [
+                "yellow"
+            ],
+            "width": "6.7\"",
+            "screenTechnology": "OLED",
+            "resolutionScreen": "2796 x 1290 Pixels",
+            "widescreen": "6.7\" - Tần số quét 120 Hz",
+            "maximumBrightness": "2000 nits",
+            "touchScreen": "Kính cường lực Ceramic Shield",
+            "resolutionRearCamera": "Chính 48 MP & Phụ 12 MP, 12 MP",
+            "film": "<ul>\n      <li>HD 720p@30fps</li>\n      <li>FullHD 1080p@60fps</li>\n      <li>FullHD 1080p@30fps</li>\n      <li>4K 2160p@24fps</li>\n      <li>4K 2160p@30fps</li>\n      <li>4K 2160p@60fps</li>\n      </ul>",
+            "flash": 1,
+            "resolutionFrontCamera": "12 MP",
+            "categoryId": "64efef649d7c130ecd1ee7e9"
+        }
+    ]
+}
